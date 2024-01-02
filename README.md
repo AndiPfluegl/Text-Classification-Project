@@ -1,7 +1,7 @@
 # Text-Classification-Project
 This project involves the development of a text classification system using machine learning. The system is trained on two datasets, the 20 Newsgroups and Reuters, to classify text into predefined categories.
 
-## Files in the Project
+### Files in the Project
 ***
 Training.py: Contains the code for data preprocessing, model training, and saving the trained model and vectorizer.
 main.py: Used for loading the trained model and vectorizer, preprocessing new text data, and predicting the category.
